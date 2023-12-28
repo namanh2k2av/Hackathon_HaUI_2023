@@ -1,6 +1,6 @@
 
 #### Pipeline.
-<p align="center"><img src="imgs/pipeline.png" width="500"/></p>
+<p align="center"><img src="imgs/pipeline.png" width="800"/></p>
 
 #### Dataset 
 > [**PETA data**](https://mmlab.ie.cuhk.edu.hk/projects/PETA.html)
